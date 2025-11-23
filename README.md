@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Space Miner Guild — Market Dominion
 
 A real-time sci-fi trading simulation where you and rival AI corporations fight over shares, assets, and control. Candles form every tick, floats squeeze, dividends pay out, and takeovers are on the table.
@@ -41,4 +41,4 @@ Zip/tar the repo excluding caches (`__pycache__`, `.venv`, `.git`). Include `req
 =======
 # SpaceMinersDayTrading
 This is a real-time sci‑fi trading sim where you and competing AI corporations fight over shares, assets, and control
->>>>>>> 14d733bf70ce3d6765dfa7cda8b6232522ecac1e
+
