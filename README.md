@@ -30,8 +30,6 @@ py -3 main.py
 - **Reports tab:** Per-company financial summaries and dividend streams.
 - **Automation tab:** Buy/upgrade the bot; review its trade log and P&L.
 
-## Sharing
-Zip/tar the repo excluding caches (`__pycache__`, `.venv`, `.git`). Include `requirements.txt` for easy installs.
 
 ## Notes
 - Candles update every tick; daily/quarterly views are available.
