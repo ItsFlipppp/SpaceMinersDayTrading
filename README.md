@@ -23,6 +23,16 @@ pip install -r requirements.txt
 ```bash
 py -3 main.py
 ```
+<img width="589" height="463" alt="image" src="https://github.com/user-attachments/assets/add9c7a1-2626-45e6-b881-d158c6b119d4" />
+<img width="2550" height="1380" alt="image" src="https://github.com/user-attachments/assets/c41758e3-ab28-406d-8d4c-44ddbf208045" />
+<img width="2148" height="1353" alt="image" src="https://github.com/user-attachments/assets/63e8e63a-cabf-42f4-8d45-60ca72dd3b18" />
+<img width="2179" height="1362" alt="image" src="https://github.com/user-attachments/assets/2bb74daf-ef5e-40b6-bc66-a88a52234f83" />
+<img width="2163" height="1350" alt="image" src="https://github.com/user-attachments/assets/96f5eec6-3185-4477-8e83-7a639d530e4f" />
+
+
+
+
+
 
 ## Controls & Flow
 - **Trading tab:** Select a company, place buys/sells/dumps, make offers to owners, watch pressure queues and candles update.
